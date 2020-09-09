@@ -2,6 +2,10 @@ h1 {
     text-align:center;
 }
 
+h3 {
+    text-align:center;
+}
+
 .person {
     text-align:center;
 }
@@ -12,4 +16,21 @@ h1 {
 
 .memo {
     text-align:center;
+}
+
+table.a {
+    margin:auto;
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: separate;
+    border-spacing: 0px 15px;
+}
+
+table.b {
+    margin:auto;
+    width: 100%;
+    table-layout: fixed;
+
+    border-collapse: separate;
+    border-spacing: 0px 15px;
 }
