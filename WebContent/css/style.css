@@ -4,6 +4,7 @@ h1 {
 
 h3 {
     text-align:center;
+
 }
 
 .person {
@@ -11,7 +12,9 @@ h3 {
 }
 
 .computer {
-    text-align:center;
+    display:inline-block;
+    margin-top:10px;
+
 }
 
 .memo {
@@ -34,3 +37,50 @@ table.b {
     border-collapse: separate;
     border-spacing: 0px 15px;
 }
+.tt {
+    margin-left:auto;
+    margin-right:auto;
+    width:1300px;
+    margin-top:20px;
+    margin-bottom:20px;
+    background-color:#EEEEEE;
+
+}
+
+.pi {
+    text-align: center;
+}
+
+.im {
+    display: inline-block;
+    margin-top:10px;
+}
+
+.other{
+    margin-left:20px;
+
+}
+table.c {
+
+    margin:auto;
+    border-collapse: separate;
+    border-spacing: 0px 15px;
+}
+
+td {
+    text-align:center;
+
+}
+
+td.le {
+    text-align:left;
+}
+
+.title {
+    text-align:center;
+}
+}
+
+
+
+
