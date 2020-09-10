@@ -13,6 +13,10 @@ font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリ�
   margin-top:0px;
 
 }
+
+.p {
+    margin-left:10px;
+}
 h1 {
     text-align:center;
 }
@@ -99,6 +103,11 @@ td.le {
 
 .title {
     text-align:center;
+}
+
+ul li {
+  padding-top:10px;
+  padding-bottom:10px;
 }
 
 
